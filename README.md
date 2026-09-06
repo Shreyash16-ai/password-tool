@@ -3,7 +3,7 @@
 A lightweight, browser-based tool that generates strong random passwords and analyzes the strength of any password in real time — built to explore core password security concepts like entropy, character variety, and common weak-password patterns.
 
 ## Live Demo
-[Add your GitHub Pages link here once deployed]
+https://shreyash16-ai.github.io/password-tool/
 
 ## Features
 - **Real-time strength checker** — scores a password as Weak, Medium, or Strong as you type, based on length and character variety (uppercase, lowercase, numbers, symbols)
